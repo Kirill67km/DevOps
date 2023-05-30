@@ -1,3 +1,5 @@
+
+
 # Задание 1
 
 ---
@@ -44,3 +46,6 @@
 Oracle Linux**
 
 ---
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/n5YajTggvim3e/giphy.gif" width="500"/>
+</div>
