@@ -8,11 +8,11 @@
 
 ---
 
-<p align="center">
- <img width="600" src="https://usagif.com/wp-content/uploads/2022/fzk5d/10-full-maze-pacman-letsplay.gif" alt="packman"/>
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QgawLg4F0hJJe/giphy.gif" width="500"/>
+</div>
 
-
+---
 
 - :telescope: Учусь в Нетологии на DevOps-инженера, где активно осваиваю новые методологии
 
@@ -46,7 +46,6 @@
   <img src="instruments/github1.png" title="git" alt="git" width="40" height="40"/>&nbsp
 </div>
 
-
 ---
 
 ### 🛠 Инструменты:
@@ -59,10 +58,7 @@
   <img src="instruments/vscode.png" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
 </div>
 
-
-
 ---
-
 
 ### ⚙️ GitHub статистика:
 
@@ -77,7 +73,7 @@
   </tr>
 </table>
 
-
+---
 
 ### 💻 Пройденные курсы:
 
