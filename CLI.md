@@ -99,3 +99,9 @@
 *Сделайте скриншот, вставьте в документ с ДЗ*
 
 <a href="https://ibb.co/Tg8NzhQ"><img src="https://i.ibb.co/VqSkXBF/5.png" alt="5" border="0"></a>
+
+---
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/PGMqSJcVexVEQ/giphy.gif" width="500"/>
+</div>
